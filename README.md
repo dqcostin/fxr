@@ -5,7 +5,7 @@
 ## 用法
 * 将fscan扫描完后的result.txt放在工具的同一级目录下
 * 将xray_windows_amd64.exe工具也放在同级目录下
-* 将xray的poc放在本地目录下
+* 将xray的poc放在本地目录下（pocs的地址：https://github.com/chaitin/xray/tree/master/pocs）
 
 ![image](https://user-images.githubusercontent.com/82979945/127308592-bb4adcce-740c-4ab5-83b9-0b8b8781a72a.png)
 
